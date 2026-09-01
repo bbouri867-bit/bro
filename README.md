@@ -74,8 +74,8 @@ NEWS_API_KEY=your_news_api_key_here
 
 1. **Clone the Repository:**
    ```powershell
-   git clone https://github.com/pratyush06-aec/BRO.git
-   cd BRO
+   git clone https://github.com/bbouri867-bit/bro.git
+   cd bro
    ```
 2. **Create and Activate a Virtual Environment:**
    ```powershell
